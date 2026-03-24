@@ -20,3 +20,8 @@ This repository is a curated compilation of notes on concepts I've studied and w
 ## CTF-writeups
   1. TryHackMe
      - Bounty Hacker [Read here](https://medium.com/@dronjx/bounty-hacker-9c2cfc079931)
+
+---
+
+## Notes
+- Linux [visit](https://www.notion.so/Linux-32dcf3d807e0800bbad8fff743523b0c?source=copy_link)
