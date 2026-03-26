@@ -30,6 +30,8 @@ This repository is a curated compilation of notes on concepts I've studied and w
   1. TryHackMe
      - Bounty Hacker [Read here](https://medium.com/@dronjx/bounty-hacker-9c2cfc079931)
      - Dev Diaries [Read here](https://medium.com/@dronjx/dev-diaries-cf5695fffe72)
+2. Hack The Box 
+     - Challenges [Read here](https://www.notion.so/HTB-challenges-32fcf3d807e080269fb9e9fbd04c48b1?source=copy_link)
 
 ---
 
