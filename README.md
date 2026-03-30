@@ -14,8 +14,6 @@ This repository is a curated compilation of notes on concepts I've studied and w
 
 
 # Profiles
-- **Linkedin** : [link](www.linkedin.com/in/dronxie)
-- **Gmail ID** : [link](dronjx@gmail.com)
 - **TryHackMe** : [link](https://tryhackme.com/p/dronxie)
 - **picoCTF** : [link](https://play.picoctf.org/users/dronxie)
 
