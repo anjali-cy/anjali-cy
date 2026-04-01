@@ -9,7 +9,7 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 - [Profiles](#profiles)
 - [Skills](#skills)
 - [Featured](#featured)
-- [Stuff-Simplified](#Notes-Simplified)
+- [Stuff-Simplified](#stuff-Simplified)
  <!-- -[Projects](#projects) -->
 
 ---
