@@ -43,16 +43,14 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 ### Case Studies
  - VirtualBox USB Passthrough Troubleshooting
    - **Problem:** `VERR_PDM_NO_USB_PORTS` error when connecting USB to VirtualBox VM
-   - **Solution:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
-   - **Key takeaways:**
-      - Installed VirtualBox Extension Pack
-      - Enabled USB 3.0 xHCI controller
-      - Successfully mounted USB in Kali Linux
-
+   - **Solution:** Installed VirtualBox Extension Pack and enabled USB 3.0 xHCI controller
+   - **Benefit:** I was able to successfully mounted USB in Kali Linux
+   - **Writeup:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
 ---
 
 # Stuff-Simplified
 - Linux [Read here](https://www.notion.so/Linux-32dcf3d807e0800bbad8fff743523b0c)
+- OWASP Top 10 : [Read here](https://www.notion.so/337cf3d807e08015a4a3e421fa3ce9db?pvs=25#337cf3d807e080529053f3c87a1db0e7)
 <!-- [- Digital forensics [Read here](https://www.notion.so/Digital-Forensics-simplified-334cf3d807e080ab89c6d7fbe50c0003)] -->
 
 ---
