@@ -25,7 +25,7 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 - ***Brute Force & Cracking*** : Hydra, Hashcat (password attacks & hash analysis)
 - ***Web Security Testing*** : Burp Suite (interception, basic vulnerability testing)
 - ***Digital Forensics*** : System Log Analysis
-- ***Programming*** : Python, C, C++, Java
+- ***Programming*** : Python,<!-- C, C++,--> Java
 - ***General skills*** : HTML, CSS, JS
 
 ---
@@ -46,9 +46,7 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 ### Case Studies
  - VirtualBox USB Passthrough Troubleshooting
    - **Problem:** `VERR_PDM_NO_USB_PORTS` error when connecting USB to VirtualBox VM
-   - **Solution:** Installed VirtualBox Extension Pack and enabled USB 3.0 xHCI controller
-   - **Benefit:** I was able to successfully mounted USB in Kali Linux
-   - **Writeup:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
+   - **Solution Writeup:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
 ---
 
 # Stuff-Simplified
@@ -56,7 +54,7 @@ This repository serves as a technical portfolio documenting my journey in Vulner
   - Linux [Read here](https://www.notion.so/Linux-32dcf3d807e0800bbad8fff743523b0c)
 - Tools:
   -  CyberChef : [Read here](https://www.notion.so/simplify-it/CyberChef-Writeup-338cf3d807e080da84f6ff39cef89989)
-- OWASP Top 10 : [Read here](https://www.notion.so/337cf3d807e08015a4a3e421fa3ce9db?pvs=25#337cf3d807e080529053f3c87a1db0e7)
+<!--[- OWASP Top 10 : [Read here](https://www.notion.so/337cf3d807e08015a4a3e421fa3ce9db?pvs=25#337cf3d807e080529053f3c87a1db0e7)-->
 <!-- [- Digital forensics [Read here](https://www.notion.so/Digital-Forensics-simplified-334cf3d807e080ab89c6d7fbe50c0003)] -->
 
 ---
