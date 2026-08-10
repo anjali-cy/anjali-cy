@@ -1,8 +1,5 @@
 # Hey there
-This repository serves as a technical portfolio documenting my journey in Vulnerability Assessment and Penetration Testing (VAPT) with a strong focus on offensive security. It includes structured notes, CTF writeups, published articles, professional profiles, and a breakdown of my technical skills. Designed as both a personal reference and a public resource, it reflects my hands-on experience in identifying, exploiting, and documenting vulnerabilities across diverse environments, attack surfaces, and real-world penetration testing scenarios.  I hope you find something here that sharpens your understanding or gives you a foothold on a topic you're working through.
-
-~ Anjali
-
+This repository serves as a technical portfolio documenting my journey in Vulnerability Assessment and Penetration Testing (VAPT). It includes structured notes, CTF writeups, published articles, professional profiles, and a breakdown of my technical skills. It reflects my hands-on experience in identifying, exploiting, and documenting vulnerabilities across diverse environments, attack surfaces, and real-world penetration testing scenarios.
 ---
 
 # Structure
@@ -43,13 +40,13 @@ This repository serves as a technical portfolio documenting my journey in Vulner
      
 
 
-### Case Studies
+### General Troubleshooting
  - VirtualBox USB Passthrough Troubleshooting
    - **Problem:** `VERR_PDM_NO_USB_PORTS` error when connecting USB to VirtualBox VM
    - **Solution Writeup:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
 ---
 
-# Stuff-Simplified
+# Notes
 - Operating systems:
   - Linux [Read here](https://www.notion.so/Linux-32dcf3d807e0800bbad8fff743523b0c)
 - Tools:
