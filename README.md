@@ -1,5 +1,7 @@
 # Hey there
+
 This repository serves as a technical portfolio documenting my journey in Vulnerability Assessment and Penetration Testing (VAPT). It includes structured notes, CTF writeups, published articles, professional profiles, and a breakdown of my technical skills. It reflects my hands-on experience in identifying, exploiting, and documenting vulnerabilities across diverse environments, attack surfaces, and real-world penetration testing scenarios.
+
 ---
 
 # Structure
